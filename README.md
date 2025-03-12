@@ -8,7 +8,7 @@ this is my project which i did as a DATA ANALYST working with RAO TAMOOR ALI
 
 Project Title:  
 
-Comprehensive Analysis of Real Estate Market Trends in Pakistan. 
+Comprehensive Analysis of Real Estate Market Trends in Multan, Pakistan. 
 
  
 
